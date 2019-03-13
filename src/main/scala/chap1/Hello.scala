@@ -14,8 +14,8 @@ object Hello {
     println("hello,scala")
 
     //定义变量
-    var n1 : Int = 1
-    var N1 : Int = 2
+    var n1: Int = 1
+    var N1: Int = 2
 
     //Scala最好是一行一条语句 最后不要带分号
 
