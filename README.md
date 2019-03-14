@@ -55,4 +55,24 @@
     scala数据类型分为两大类AnyVal(值类型) 和 AnyRef(引用类型)
     注意 不管是AnyVal还是AnyRef 都是对象
     
+    Scala中一切都是对象
+    
+    Scala中数据类型分为两大类 值类型(AnyVal) 引用类型(AnyRef)
+    
+    都是对象
+    
+    scala数据类型 遵守 低精度的值类型 向高精度的值类型自动转换(隐式转换)
+    
+    scala中的特殊类型 Null, 只有一个实例 null 也叫 bottom class
+    
+    还有一个特殊的类 Nothing 用于在一个函数没有正常返回值时使用
+    
+    可以把抛出的返回值 返回给任何的变量 函数
+    
+    
+    
+    
+    
+    
+    
    
