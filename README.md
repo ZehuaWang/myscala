@@ -78,3 +78,22 @@
     
     Scala整型 字面量 默认Int 声明Long 字面量后面需要
     加 L
+    
+    浮点类型
+    
+    Float 4字节
+    Double 8字节
+    
+    scala的浮点常量默认为Doubble 声明为Float常量 需加f
+    
+    字符类型
+    
+    可以表示为单个字符 字符类型是Char 16位无符号Unicode字符
+    
+    两个字节 
+    
+    boolean 只有true false
+    
+    占1个字节
+    
+    
