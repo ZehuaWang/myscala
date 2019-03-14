@@ -9,6 +9,10 @@ object VarDemo02 {
     //age = "Tom" 类型不可改变
     val num = 10
     //num = 20 val不可变
+
+    var min = Byte.MinValue
+
+    println(min)
   }
 
 }
