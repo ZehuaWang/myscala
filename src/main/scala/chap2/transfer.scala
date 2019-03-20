@@ -30,8 +30,8 @@ object transfer {
     var s:Short = 5
     //s = s - 2
 
-    var b : Byte = 3
-    
+    //var b : Byte = 3
+
 
   }
 
