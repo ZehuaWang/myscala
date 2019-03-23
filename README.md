@@ -144,10 +144,34 @@
     
     scala没有三元运算符
     
+    键盘输入语句
     
+    流程控制 顺序 分支 循环
     
+    scala先定义变量 在使用变量
     
+    Scala的for循环 - for推导式
     
+    for(i <-1 to 3) {
+        
+    }
+    
+    i表示循环的变量 , <- to 是关键字
+    i将会从1到3进行循环
+    
+    for(i <- 1 until 3) {
+        
+    }
+    
+    这种方式 不包括3
+    
+    循环守卫
+    
+    for(i <- 1 to 3 if i != 2) {
+        print(i)
+    }
+    
+    保护式为true 进入循环体的内部 为false则跳过 类似于continue
     
     
     
